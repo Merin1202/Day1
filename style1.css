@@ -1,7 +1,10 @@
 h1{
-    color:blueviolet;
+    color: black;
 }
 a{
     text-decoration: solid;
     cursor: grab;
+}
+body{
+    background-color: brown;
 }
